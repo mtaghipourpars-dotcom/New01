@@ -1,0 +1,27 @@
+{
+  "package": "RAIL_CONTROL_TOWER_Agent_Skill_Documentation_Pack",
+  "version": "1.0.0",
+  "source": "User-provided Agent Skill-driven application prompt",
+  "documents": [
+    "README.md",
+    "README.dm",
+    "PROJECT_CHARTER.md",
+    "ARCHITECTURE_BASELINE.md",
+    "EXECUTION_PROTOCOL.md",
+    "UI_UX_SPECIFICATION.md",
+    "BILINGUAL_RTL_SPECIFICATION.md",
+    "DATA_VIZ_SPECIFICATION.md",
+    "QC_SPECIFICATION.md",
+    "ACCEPTANCE_CRITERIA.md",
+    "COMPARISON_MAP.md",
+    "AI_PROMPTING_GUIDE.md",
+    "SKILL_REGISTRY.md",
+    ".agents/skills/app-scaffold/SKILL.md",
+    ".agents/skills/data-viz-engine/SKILL.md",
+    ".agents/skills/qc-gate/SKILL.md",
+    "messages/en.json",
+    "messages/fa.json",
+    "evidence/README.md"
+  ],
+  "application_code_included": false
+}

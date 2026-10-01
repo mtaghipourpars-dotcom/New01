@@ -1,0 +1,22 @@
+{
+  "common": {
+    "appName": "[نام برنامه]",
+    "dashboard": "داشبورد",
+    "reports": "گزارش‌ها",
+    "settings": "تنظیمات",
+    "loading": "در حال بارگذاری",
+    "retry": "تلاش مجدد",
+    "language": "زبان"
+  },
+  "dashboard": {
+    "title": "داشبورد",
+    "lineChart": "روند",
+    "barChart": "مقایسه",
+    "donutChart": "توزیع",
+    "noDataAction": "مشاهده داده"
+  },
+  "feedback": {
+    "success": "ذخیره شد",
+    "error": "عملیات ناموفق بود"
+  }
+}

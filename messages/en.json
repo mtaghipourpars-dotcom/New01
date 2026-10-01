@@ -1,0 +1,22 @@
+{
+  "common": {
+    "appName": "[Application Name]",
+    "dashboard": "Dashboard",
+    "reports": "Reports",
+    "settings": "Settings",
+    "loading": "Loading",
+    "retry": "Retry",
+    "language": "Language"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "lineChart": "Trend",
+    "barChart": "Comparison",
+    "donutChart": "Distribution",
+    "noDataAction": "Open data"
+  },
+  "feedback": {
+    "success": "Saved",
+    "error": "Action failed"
+  }
+}
